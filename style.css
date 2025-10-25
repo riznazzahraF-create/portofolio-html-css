@@ -13,8 +13,8 @@ html, body {
 }
 
 header {
-  background-color: skyblue;
-  color: pink;
+  background-color: pink;
+  color: white;
   padding: 15px 30px;
   display: flex;
   justify-content: space-between;
@@ -28,7 +28,7 @@ header {
 }
 
 nav a {
-  color: pink;
+  color: white;
   text-decoration: none;
   margin: 0 10px;
   font-weight: bold;
@@ -47,18 +47,18 @@ nav a:hover {
 
 section {
   padding: 80px 40px;
-  background-color: black;
+  background-color: pink;
   margin: 40px;
   border-radius: 10px;
-  border: 1px solid skyblue;
+  border: 1px solid white;
 }
 
 section:nth-child(even) {
-  background-color: skyblue;
+  background-color: pink;
 }
 
 h1 {
-  color: pink;
+  color: white;
   margin-bottom: 20px;
   text-align: center;
 }
@@ -91,7 +91,7 @@ ul li a:hover {
 }
 
 footer {
-  background-color: skyblue;
+  background-color: pink;
   color: black;
   text-align: center;
   padding: 10px;
