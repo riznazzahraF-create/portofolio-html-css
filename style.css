@@ -13,7 +13,7 @@ html, body {
 }
 
 header {
-  background-color: pink;
+  background-color: skyblue;
   color: white;
   padding: 15px 30px;
   display: flex;
@@ -91,7 +91,7 @@ ul li a:hover {
 }
 
 footer {
-  background-color: pink;
+  background-color: skyblue;
   color: black;
   text-align: center;
   padding: 10px;
