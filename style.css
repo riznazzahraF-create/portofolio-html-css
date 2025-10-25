@@ -13,7 +13,7 @@ html, body {
 }
 
 header {
-  background-color: black;
+  background-color: skyblue;
   color: pink;
   padding: 15px 30px;
   display: flex;
@@ -50,11 +50,11 @@ section {
   background-color: black;
   margin: 40px;
   border-radius: 10px;
-  border: 1px solid black;
+  border: 1px solid skyblue;
 }
 
 section:nth-child(even) {
-  background-color: black;
+  background-color: skyblue;
 }
 
 h1 {
@@ -91,7 +91,7 @@ ul li a:hover {
 }
 
 footer {
-  background-color: black;
+  background-color: skyblue;
   color: black;
   text-align: center;
   padding: 10px;
